@@ -8,7 +8,7 @@ This project is a comparative study of two classic machine learning algorithms: 
 The aim is to evaluate the performance, strengths, and weaknesses of both algorithms when applied to the same dataset, and to reflect on their suitability for multi-class classification tasks.
 
 ## Problem Statement
-The coursework required implementing at least two machine learning algorithms studied in the module, applying them to a dataset of choice, and comparing their performance. One of the algorithms had to be implemented from scratch in Python, while standard libraries could be used for the other.
+The project involved implementing at least two machine learning algorithms studied in the module, applying them to a dataset of choice, and comparing their performance. One of the algorithms had to be implemented from scratch in Python, while standard libraries could be used for the other.
 
 In this project, I:  
 - Implemented k-Nearest Neighbors (kNN) from scratch.  
@@ -52,10 +52,14 @@ In this project, I:
 **Summary:** kNN achieved higher scores across all metrics, while Decision Trees offered greater interpretability but were more prone to overfitting.  
 
 ## Files in This Repository
-- `index.html` – Jupyter Notebook exported as HTML (contains code, analysis, and visualizations).  
+- `knn_vs_decision_tree.html` – Jupyter Notebook exported as HTML (contains code, analysis, and visualizations).  
 - `Report.pdf` – Formal write-up of the project, including background, methodology, results, and evaluation.  
 - `README.md` – Project overview and instructions (this file).  
 
 ## How to Use
-- Open `index.html` in a browser to view the complete analysis.  
-- Read `report.pdf` for the formal write-up with detailed methodology and discussion.  
+- Open `knn_vs_decision_tree.html` in a browser to view the complete analysis.  
+- Read `Report.pdf` for the formal write-up with detailed methodology and discussion.  
+
+## View Online
+You can also view the rendered notebook directly through GitHub Pages here:  
+👉 [kNN vs Decision Tree Notebook](https://ellenfaustine.github.io/knn-vs-decision-tree/knn_vs_decision_tree.html)
