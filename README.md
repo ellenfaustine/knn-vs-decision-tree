@@ -52,13 +52,15 @@ In this project, I:
 **Summary:** kNN achieved higher scores across all metrics, while Decision Trees offered greater interpretability but were more prone to overfitting.  
 
 ## Files in This Repository
-- `knn_vs_decision_tree.html` – Jupyter Notebook exported as HTML (contains code, analysis, and visualizations).  
+- `knn_vs_decision_tree.html` – Jupyter Notebook exported as HTML (contains code, analysis, and visualizations).
+- `knn_vs_decision_tree.ipynb` – Raw Jupyter Notebook for reproducibility and re-running the code.  
 - `Report.pdf` – Formal write-up of the project, including background, methodology, results, and evaluation.  
 - `README.md` – Project overview and instructions (this file).  
 
 ## How to Use
 - Open `knn_vs_decision_tree.html` in a browser to view the complete analysis.  
-- Read `Report.pdf` for the formal write-up with detailed methodology and discussion.  
+- Read `Report.pdf` for the formal write-up with detailed methodology and discussion.
+- Open `knn_vs_decision_tree.ipynb` in Jupyter or Colab to re-run or extend the code.  
 
 ## View Online
 You can also view the rendered notebook directly through GitHub Pages here:  
